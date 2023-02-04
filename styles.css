@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#form{
+    margin-top: 40px;
+}
+
+body{
+    background-color: rgb(237, 253, 247);
+}
+
+.container h3{
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(3, 66, 42);
+}
+
